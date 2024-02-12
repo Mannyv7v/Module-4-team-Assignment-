@@ -1,7 +1,8 @@
 # Module-4-team-Assignment-
 
-#Creator: Emmanuel Velazquez
-#Last date edited: 2/12/24
+Creator: Emmanuel Velazquez
+
+Last date edited: 2/12/24
 
 This program ask the user what they would like to eat. 
 
